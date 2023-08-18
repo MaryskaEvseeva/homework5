@@ -6,4 +6,4 @@ package ru.netology.service;
          return boundary - amount % boundary;
      }
  }
-}
+
